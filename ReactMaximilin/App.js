@@ -8,8 +8,6 @@ export default function App() {
      <View style={styles.inputContainer}>
       <TextInput style={styles.textInput} placeholder='Your course goal!' />
       <Button title='Add goal!'/>
-      <Button title='Add goal!'/>
-      <Button title='Add goal!'/>
      </View>
      <View style={styles.goalsContainer}>
       <Text>List of goals...</Text>
